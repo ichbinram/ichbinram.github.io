@@ -1,0 +1,31 @@
+# The URL the site will be built for
+base_url = "https://ichbinram.github.io"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+# Theme to use
+theme = "hayflow"
+
+# Title of the website
+title = "Ramprasad Raghunath"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+# Put all your custom variables here
+author = "Ramprasad Raghunath"
+links = [
+    { icon = "fa-solid fa-envelope", url = "mailto:r.raghunath@tu-braunschweig.de" },
+    { icon = "fa-brands fa-github", url = "https://github.com/ichbinram" },
+    { icon = "fa-brands fa-linkedin", url = "https://linkedin.com/in/ichbinram" },
+]
+
+name = { first = "Ramprasad", last = "Raghunath" }
+sections = ["about", "publications"]
