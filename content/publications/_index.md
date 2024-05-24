@@ -21,6 +21,17 @@ Bile Peng, Karl-Ludwig Besser, Shanpu Shen, Finn Siegismund-Poschmann, Ramprasad
 
 ---
 
+## Journal Papers
+
+1. **[Approaching Globally Optimal Energy Efficiency in Interference Networks via Machine Learning](https://arxiv.org/abs/2212.12329)**
+
+   - _IEEE Transactions on Communications, 2023_
+   - This paper presents a novel machine learning framework for optimizing energy efficiency in multi-cell wireless networks, balancing between computational complexity and performance to achieve near-optimal results.
+
+Bile Peng, Karl-Ludwig Besser, Ramprasad Raghunath, Eduard A. Jorswieck
+
+---
+
 ## Conference Papers
 
 1. **[Practical Wiretap Code Design by Concatenated Autoencoder and LDPC Codes](https://doi.org/10.1109/WIFS58808.2023.10375067)**
@@ -36,16 +47,3 @@ Shangxuan Lyu, Ramprasad Raghunath, Luca Kunz, Karl-Ludwig Besser, Pin-Hsun Lin,
    - Focuses on maximizing energy efficiency in IoT devices through reinforcement learning, addressing the increasing demand for wireless communication.
 
 Ramprasad Raghunath, Bile Peng, Karl-Ludwig Besser, Eduard A. Jorswieck
-
----
-
-## Journal Papers
-
-1. **[Approaching Globally Optimal Energy Efficiency in Interference Networks via Machine Learning](https://arxiv.org/abs/2212.12329)**
-
-   - _IEEE Transactions on Communications, 2023_
-   - This paper presents a novel machine learning framework for optimizing energy efficiency in multi-cell wireless networks, balancing between computational complexity and performance to achieve near-optimal results.
-
-Bile Peng, Karl-Ludwig Besser, Ramprasad Raghunath, Eduard A. Jorswieck
-
----
