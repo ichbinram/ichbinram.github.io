@@ -3,7 +3,7 @@ title = "About"
 
 +++
 
-Hello there! 👋
+Hello there! 👋🏽
 
 Welcome! I'm Ramprasad Raghunath, a dedicated researcher and engineer specializing in computational sciences and machine learning. I hold a Master of Science in Computational Sciences in Engineering from Technische Universität Braunschweig and a Bachelor of Engineering in Mechanical Engineering from Malnad College of Engineering.
 
